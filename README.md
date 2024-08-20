@@ -6,3 +6,6 @@ Este projeto utiliza o YOLOv4 (You Only Look Once versão 4) para a detecção d
 <img src="https://github.com/user-attachments/assets/a23c0918-1935-4ac5-bfb8-61a34f1a8fc5" width="150px" />
 <img src="https://github.com/user-attachments/assets/038c19d0-2437-4bfd-9fb2-39dafdd06884" width="150px" />
 <img src="https://github.com/user-attachments/assets/1fd318f7-7be8-4f15-af13-2c228281b3a0" width="150px" />
+
+<img src="https://github.com/user-attachments/assets/5e2646d0-4a51-4b53-a233-825194ca09a8" width="600px" />
+
