@@ -11,5 +11,6 @@ Este projeto utiliza o YOLOv4 (You Only Look Once versão 4) para a detecção d
 
 
 Detecção de imagens
+
 ![image](https://github.com/user-attachments/assets/063773e2-8fa6-4bbc-a651-915d9bdb9843)
 
